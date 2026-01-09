@@ -17,7 +17,7 @@ Lumara is an AI companion that provides 24/7 emotional support through mood trac
 ## 🛠️ Tech Stack
 
 - Frontend: React + Tailwind CSS
-- Backend: Node.js + Express
+- Backend: Java Spring Boot
 - AI: OpenAI API / Hugging Face
 - Database: MongoDB / Firebase
 - Deployment: Vercel + Render
